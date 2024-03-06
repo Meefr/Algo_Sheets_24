@@ -186,6 +186,22 @@ class Program {
             ask to find Adel. (O(n) ,O(n2
             ). O(nlogn),….). 
          */
+
+        /*QUESTION7: A[i] = i?
+            Suppose you are given an increasing sequence of n distinct integers in an array 
+            A[1..n]. Design an efficient algorithm to determine whether there exists an index i 
+            such that A[i] = i. Analyze the running time of your algorithm.
+         */
+        public bool AisI(int[] arr, int start, int end) {
+            int mid = (start + end) / 2;
+            if (start >= end)
+                return false;
+            if(arr[mid] == mid) return true; 
+            else if(arr[mid] < mid)
+                return AisI(arr, start, mid);
+            else 
+                return AisI(arr, mid + 1, end);
+        }
     }
 
     public static void Main(string[] args) {
@@ -226,6 +242,13 @@ class Program {
         int[] cards = { 10, 8, 6 };
         sheet1.KPiles(deck, 0, deck.Length - 1, cards);
          */
+
+
+        /*Question 7
+        int[] arr = { 2, 3, 6, 1, 4, 10 };
+        Console.WriteLine(sheet1.AisI(arr, 0, arr.Length - 1));
+         */
+
     }
 
 }
