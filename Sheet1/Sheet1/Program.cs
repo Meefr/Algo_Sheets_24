@@ -124,7 +124,7 @@ class Program {
             }
             bool right = EvenOddCheck(arr, start, mid);
             bool left = EvenOddCheck(arr, mid + 1, end);
-            return (right && left);
+            return !(right ^ left);
         }
 
 
@@ -202,6 +202,44 @@ class Program {
             else 
                 return AisI(arr, mid + 1, end);
         }
+
+        /*QUESTION8: Guess a Number!
+            Your friend guesses an integer between A and B: You can ask questions like is the 
+            number less than 100? He will give YES NO answers. How many questions can your 
+            friend force you to ask, if you are a smart person?
+         */
+        public int GuessANumber(int A,int B) {
+            int mid = (A + B) / 2;
+            if (Math.Abs(A - B) <= 1) {
+                Console.WriteLine("number is " + A + "?");
+                string ans = Console.ReadLine();
+                if (ans == "y")
+                    return A;
+                return B;
+            }
+            Console.WriteLine("is number less than " + mid);
+            string s = Console.ReadLine();
+            if (s == "y")
+                return GuessANumber(A, mid);
+            else
+                return GuessANumber(mid+1, B);
+        }
+
+        /*QUESTION11: Max Difference
+            Let A[1::n] be an array of positive integers. Design a divide-and-conquer algorithm for 
+            computing the maximum value of A[j] - A[i] with j ≥ i.
+            Analyze your algorithm running time.
+         */
+
+        public int MaxDifference(int[] arr,int start,int end, int max) {
+            if (start > end)
+                return max;
+            int mid = (start + end) / 2;
+            int left = MaxDifference(arr, start, mid, max);
+            int right = MaxDifference(arr,mid+1,end, max);
+            max = Math.Max(left, right);
+            return 0;
+        }
     }
 
     public static void Main(string[] args) {
@@ -228,9 +266,9 @@ class Program {
         */
 
         /*//Question 3
-        int[] arr = { 1, 30, 4, 300000000, 5, 8, 7, 4, 5 };
+        int[] arr = { 2, 2};
         Console.WriteLine(sheet1.EvenOddCheck(arr,0,arr.Length-1));
-         */
+        */
 
         /* Question 4
         int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
@@ -248,7 +286,9 @@ class Program {
         int[] arr = { 2, 3, 6, 1, 4, 10 };
         Console.WriteLine(sheet1.AisI(arr, 0, arr.Length - 1));
          */
-
+        /*Question 8
+         */
+        Console.Write(sheet1.GuessANumber(1,20));
     }
 
 }
