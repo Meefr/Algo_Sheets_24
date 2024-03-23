@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0-CS uni\\semester6\\Analysis & Design of Algorithms\\Sheets\\Algo_Sheets_24\\Sheet1\\Sheet1\\Sheet1.csproj",
+      "projectUniqueName": "D:\\0-CS uni\\Algo\\New folder\\Sheets\\Algo_Sheets_24\\Sheet1\\Sheet1\\Sheet1.csproj",
       "projectName": "Sheet1",
-      "projectPath": "D:\\0-CS uni\\semester6\\Analysis & Design of Algorithms\\Sheets\\Algo_Sheets_24\\Sheet1\\Sheet1\\Sheet1.csproj",
+      "projectPath": "D:\\0-CS uni\\Algo\\New folder\\Sheets\\Algo_Sheets_24\\Sheet1\\Sheet1\\Sheet1.csproj",
       "packagesPath": "C:\\Users\\meefr\\.nuget\\packages\\",
-      "outputPath": "D:\\0-CS uni\\semester6\\Analysis & Design of Algorithms\\Sheets\\Algo_Sheets_24\\Sheet1\\Sheet1\\obj\\",
+      "outputPath": "D:\\0-CS uni\\Algo\\New folder\\Sheets\\Algo_Sheets_24\\Sheet1\\Sheet1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\meefr\\AppData\\Roaming\\NuGet\\NuGet.Config",

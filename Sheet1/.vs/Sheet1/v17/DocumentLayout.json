@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Semester6\\Algo\\Sheets\\Algo_Sheets_24\\Sheet1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE4BC75-19C3-4354-9F02-DB50206E2322}|Sheet1\\Sheet1.csproj|h:\\semester6\\algo\\sheets\\algo_sheets_24\\sheet1\\sheet1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE4BC75-19C3-4354-9F02-DB50206E2322}|Sheet1\\Sheet1.csproj|solutionrelative:sheet1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Semester6\\Algo\\Sheets\\Algo_Sheets_24\\Sheet1\\Sheet1\\Program.cs",
+              "RelativeDocumentMoniker": "Sheet1\\Program.cs",
+              "ToolTip": "H:\\Semester6\\Algo\\Sheets\\Algo_Sheets_24\\Sheet1\\Sheet1\\Program.cs*",
+              "RelativeToolTip": "Sheet1\\Program.cs*",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwHQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:33:29.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

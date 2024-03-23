@@ -28,3 +28,33 @@ D:\0-CS uni\semester6\Analysis & Design of Algorithms\Sheets\Algo_Sheets_24\Shee
 D:\0-CS uni\semester6\Analysis & Design of Algorithms\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.pdb
 D:\0-CS uni\semester6\Analysis & Design of Algorithms\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.genruntimeconfig.cache
 D:\0-CS uni\semester6\Analysis & Design of Algorithms\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\ref\Sheet1.dll
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.exe
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.deps.json
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.runtimeconfig.json
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.dll
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.pdb
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.AssemblyInfoInputs.cache
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.AssemblyInfo.cs
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.csproj.CoreCompileInputs.cache
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.sourcelink.json
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.dll
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\refint\Sheet1.dll
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.pdb
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.genruntimeconfig.cache
+H:\Semester6\Algo\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\ref\Sheet1.dll
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.exe
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.deps.json
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.runtimeconfig.json
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.dll
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\bin\Debug\net6.0\Sheet1.pdb
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.csproj.AssemblyReference.cache
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.GeneratedMSBuildEditorConfig.editorconfig
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.AssemblyInfoInputs.cache
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.AssemblyInfo.cs
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.csproj.CoreCompileInputs.cache
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.dll
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\refint\Sheet1.dll
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.pdb
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\Sheet1.genruntimeconfig.cache
+D:\0-CS uni\Algo\New folder\Sheets\Algo_Sheets_24\Sheet1\Sheet1\obj\Debug\net6.0\ref\Sheet1.dll
